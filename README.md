@@ -119,3 +119,7 @@ An interactive Plotly chart showing:
 * Include multiple stock tickers in one visualization
 * Build a small dashboard using **Streamlit**
 
+## 👩‍💻 Author
+
+**Tahniyat Javaid**
+*Data Science Project 2025*
