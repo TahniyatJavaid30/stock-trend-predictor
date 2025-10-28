@@ -20,7 +20,7 @@ It fetches real-time stock data, cleans and processes it, and then predicts futu
 1. Clone this repository
 
    ```bash
-   git clone https://github.com/yourusername/stock-market-forecast.git
+   git clone https://github.com/TahniyatJavaid30/stock-trend-predictor.git
    cd stock-market-forecast
    ```
 
